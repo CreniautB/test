@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sarabranco92.github.io/test/static/css/main.ee2a8b22.css",
+    "main.js": "/sarabranco92.github.io/test/static/js/main.f848d127.js",
+    "static/js/787.227b7f2b.chunk.js": "/sarabranco92.github.io/test/static/js/787.227b7f2b.chunk.js",
+    "index.html": "/sarabranco92.github.io/test/index.html",
+    "main.ee2a8b22.css.map": "/sarabranco92.github.io/test/static/css/main.ee2a8b22.css.map",
+    "main.f848d127.js.map": "/sarabranco92.github.io/test/static/js/main.f848d127.js.map",
+    "787.227b7f2b.chunk.js.map": "/sarabranco92.github.io/test/static/js/787.227b7f2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee2a8b22.css",
+    "static/js/main.f848d127.js"
+  ]
+}
