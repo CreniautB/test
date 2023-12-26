@@ -1,7 +1,7 @@
 {
   "name": "77-events",
   "version": "0.1.0",
- "homepage": "sarabranco92.github.io/77events/",
+ "homepage": "sarabranco92.github.io/test/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
